@@ -1,4 +1,4 @@
-# VRAXIA
+# VRAXIA SYSTEM OPERACIONAL IA AGENTS
 
 **AI Operating System for Enterprise**
 
