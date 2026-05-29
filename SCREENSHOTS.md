@@ -73,12 +73,67 @@ Business and unit economics view:
 
 ---
 
-## Live Demo
+# 🚀 VRAXIA — Enterprise AI Operating System
 
-→ **[vraxia-platform.vercel.app](https://vraxia-platform.vercel.app)**
+VRAXIA é uma plataforma operacional de Inteligência Artificial desenvolvida para centralizar agentes especializados, automação corporativa e gestão de conhecimento organizacional em uma única infraestrutura AI-native.
 
-The live platform includes all five views with real interface interactions, Chart.js visualizations, and navigation between modules.
+O projeto foi concebido para demonstrar como empresas podem utilizar IA de forma integrada em áreas como operações, comercial, marketing, analytics e inteligência corporativa.
 
 ---
 
-> Screenshots directory: `docs/screenshots/` *(to be added)*
+## 🌐 Institutional Landing Page
+
+Conheça a visão estratégica da plataforma VRAXIA:
+
+🔗 https://vrashows.com.br/vraxia
+
+---
+
+## 🧠 Human RAG — Cognitive Knowledge Platform
+
+Human RAG é o principal diferencial conceitual da VRAXIA.
+
+Seu objetivo é preservar conhecimento organizacional através da captura de padrões de raciocínio, tomada de decisão e expertise de profissionais de alta performance, transformando conhecimento humano em ativos digitais reutilizáveis.
+
+🔗 https://vraxia-platform.vercel.app
+
+---
+
+## 💼 IALEADSNOW — Commercial AI Runtime
+
+IALEADSNOW é o módulo comercial operacional da plataforma.
+
+A aplicação demonstra uma arquitetura AI-native voltada para automação comercial, agentes especializados, analytics, gestão de leads e operações orientadas por inteligência artificial.
+
+🔗 https://ialeadsnow.vercel.app/dashboard
+
+---
+
+## ⚙️ What Was Built
+
+* Enterprise AI Operating System Concept
+* Human RAG Architecture
+* AI Agent Ecosystem
+* Enterprise Dashboards
+* AI Analytics & Observability
+* Cognitive Knowledge Framework
+* Multi-Module SaaS Architecture
+* Commercial AI Runtime
+* Executive Interface Design
+* AI-Native Platform Strategy
+
+---
+
+## 🎯 Purpose of This Project
+
+VRAXIA was developed as an AI Systems Architecture portfolio project focused on demonstrating:
+
+* AI Product Engineering
+* AI Platform Design
+* Enterprise System Architecture
+* Human-Centered AI Concepts
+* Knowledge Preservation Systems
+* SaaS-Oriented AI Infrastructure
+
+The project serves as both a professional portfolio and a long-term vision for enterprise AI operating systems.
+
